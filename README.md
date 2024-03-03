@@ -9,7 +9,7 @@ I'm from France 🇫🇷, currently in Paris 🌎. I'm a big fan of Python 🐍 
 [www.mon-dpe.net](https://www.mon-dpe.net/), which is a website that lets you estimate the energy consumption of an apartment or house.
 <br>
 <br>
-[<img src="logo_mondpe.png" alt="Logo MON DPE" height="150px">](https://www.mon-dpe.net/)
+[<img src="logo_mondpe.png" alt="Logo MON DPE" height="100px">](https://www.mon-dpe.net/)
 
 ## 📫 How to reach me
 
