@@ -10,3 +10,8 @@ I'm from France 🇫🇷, currently in Paris 🌎. I'm a big fan of Python 🐍 
 <br>
 <br>
 [<img src="logo_mondpe.png" alt="Logo MON DPE" height="150px">](https://www.mon-dpe.net/)
+
+## 📫 How to reach me
+
+[<img src="email.png" height="50px">](mailto:contact.mondpe@gmail.com)
+[<img src="linkedin.png" height="50px">](https://www.linkedin.com/in/alp1988/)
