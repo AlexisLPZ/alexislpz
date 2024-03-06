@@ -11,6 +11,11 @@ I'm from France 🇫🇷, currently in Paris 🌎. I'm a big fan of Python 🐍 
 <br>
 [<img src="logo_mondpe.png" alt="Logo MON DPE" height="100px">](https://www.mon-dpe.net/)
 
+## 🛠️ My stack
+![Static Badge](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColorwhite&style=flat)
+
+
+
 ## 📫 How to reach me
 
 [<img src="email.png" height="50px">](mailto:contact.mondpe@gmail.com)
