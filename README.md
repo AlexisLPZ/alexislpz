@@ -12,9 +12,9 @@ I'm from France 🇫🇷, currently in Paris 🌎. I'm a big fan of Python 🐍 
 [<img src="logo_mondpe.png" alt="Logo MON DPE" height="100px">](https://www.mon-dpe.net/)
 
 ## 🛠️ My stack
-![Static Badge](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=flat)
-![Static Badge](https://img.shields.io/badge/python-FFDE57?logo=python&style=flat)
-![Static Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Static Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
 
 ## 📫 How to reach me
