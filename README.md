@@ -14,6 +14,7 @@ I'm from France 🇫🇷, currently in Paris 🌎. I'm a big fan of Python 🐍 
 ## 🛠️ My stack
 ![Static Badge](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=flat)
 ![Static Badge](https://img.shields.io/badge/python-FFDE57?logo=python&style=flat)
+![Static Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 
 ## 📫 How to reach me
